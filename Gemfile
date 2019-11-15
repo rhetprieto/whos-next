@@ -19,7 +19,7 @@ gem 'bcrypt', '~> 3.1.7'
 
 #For creating JWT
 gem 'jwt_sessions', '~> 2.4.1'
-gem 'rack-cors', '~> 1.0.3'
+gem 'rack-cors', '~> 1.0.5'
 
 
 # Use ActiveStorage variant
